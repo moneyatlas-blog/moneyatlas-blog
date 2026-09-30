@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.moneyatlas.com/sitemap.xml
+Sitemap: https://moneyatlas-blog.github.io/moneyatlas-blog/sitemap.xml
